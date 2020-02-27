@@ -1,0 +1,14 @@
+{ Using PSTWRITER 16.6.0 d001Aug-23-2019 at 17:59:46 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.11" ignored for U1: SCHEMATIC1, MPU6050 SCH (3.00, 3.40). Connecting pin to net "GND".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.8" ignored for U1: SCHEMATIC1, MPU6050 SCH (3.00, 3.40). Connecting pin to net "VCC_3V3".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\MPU6050_MODEULE\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\MPU6050_MODEULE\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\MPU6050_MODEULE\allegro/pstxprt.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\MPU6050_MODEULE\allegro/pstxnet.dat
+packaging the design view...

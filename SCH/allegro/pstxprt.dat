@@ -1,0 +1,160 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Aug-23-2019 at 17:59:49 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MPU6050';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS437@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins437@my_lib.\cap np.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins437@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS647@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins647@my_lib.\cap np.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins647@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS1550@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins1550@my_lib.\cap np.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins1550@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS1576@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins1576@my_lib.\cap np.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins1576@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS2023@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins2023@my_lib.\cap np.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins2023@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS2521@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins2521@my_lib.\cap np.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins2521@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0603_104':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS3300@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins3300@my_lib.\cap np.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins3300@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON6_SIP-6_CON6':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS3583@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins3583@connector.\con6.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins3583@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS786@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins786@my_lib.\r.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins786@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS868@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins868@my_lib.\r.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins868@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS900@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins900@my_lib.\r.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins900@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS1168@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins1168@my_lib.\r.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins1168@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0603_NC':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS1200@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins1200@my_lib.\r.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins1200@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MPU6050_0_QFN-24_MPU6050':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS70@MPU6050.MPU6050_0.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins70@mpu6050.\mpu6050_0.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins70@mpu6050.\mpu6050_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'AMS1117-3V3_SOT-223_AMS1117-3V3':;
+
+SECTION_NUMBER 1
+ '@MPU6050.SCHEMATIC1(SCH_1):INS1886@MY_LIB.AMS1117-3V3.NORMAL(CHIPS)':
+ C_PATH='@mpu6050.schematic1(sch_1):ins1886@my_lib.\ams1117-3v3.normal\(chips)',
+ P_PATH='@mpu6050.schematic1(sch_1):page_ins1886@my_lib.\ams1117-3v3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
